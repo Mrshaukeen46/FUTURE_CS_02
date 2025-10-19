@@ -1,0 +1,17 @@
+To: IT Security Manager
+Subject: [URGENT] High-Severity Incidents Detected — Immediate Action Required
+
+Dear Team,
+
+During today’s SOC monitoring, we identified multiple high-severity security alerts including a brute-force login attempt, SQL injection indicators, and a confirmed malware infection.
+
+Actions Taken:
+- Attacker IP blocked
+- Malware host isolated
+- DB monitoring enabled
+
+Requesting confirmation for forensic analysis and system reimaging where necessary.
+
+Regards,
+Robith Abraham
+SOC Intern — Future Interns
