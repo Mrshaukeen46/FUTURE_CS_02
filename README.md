@@ -71,3 +71,27 @@ The project simulates real-world **Security Alert Monitoring and Incident Respon
 ---
 
 ## 📧 Sample Communication Email
+
+---
+
+## ⚠️ Ethics Reminder
+This is a **simulated cybersecurity project** designed for **educational purposes only**.  
+All logs and incidents are **fictional** and must not be used in real-world or unauthorized environments.
+
+---
+
+## 👨‍💻 Author
+**Robith Abraham**  
+Cybersecurity Intern @ Future Interns  
+📍 Albedo School of Business Education  
+📧 robithabraham@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/robith-a-042179256/)
+
+---
+
+## 📦 Version
+**v1.0 — October 2025**
+
+
+> © 2025 Future Interns — SOC Internship Simulation. All rights reserved.
+
