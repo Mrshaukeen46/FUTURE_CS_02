@@ -1,0 +1,6 @@
+Incident ID,Category,Severity,Source IP,Timestamp,Description,Status,Notes
+INC-001,Brute Force,High,45.23.190.77,2025-10-18 09:15:22,Multiple failed admin login attempts leading to lockout,Blocked/Investigating,
+INC-002,SQL Injection Attempt,High,10.0.0.21,2025-10-18 09:18:50,Suspicious DB query 'select * from users',Monitoring/Forensics,
+INC-003,Malware Infection,High,185.231.250.100,2025-10-18 09:25:14,Trojan.Win32 detected on Endpoint-07,Isolated,
+INC-004,TOR Outbound,Medium,172.16.0.34,2025-10-18 09:40:11,Outbound connection to known TOR exit node,Blocked,
+INC-005,Account Lockout,Medium,45.23.190.77,2025-10-18 09:16:08,Admin account locked after repeated failures,Credentials Reset/Monitoring,

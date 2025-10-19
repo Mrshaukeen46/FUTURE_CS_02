@@ -1,0 +1,7 @@
+Timestamp,SourceIP,Dest,EventType,Details
+2025-10-18 09:12:04,192.168.1.12,Server-01,Login Success,user=admin
+2025-10-18 09:15:22,45.23.190.77,Server-01,Failed Login,user=admin attempt=5
+2025-10-18 09:16:08,45.23.190.77,Server-01,Account Lockout,user=admin
+2025-10-18 09:18:50,10.0.0.21,Database,Suspicious Query,select * from users
+2025-10-18 09:25:14,185.231.250.100,Endpoint-07,Malware Alert,Trojan.Win32 found
+2025-10-18 09:40:11,172.16.0.34,Web Gateway,Outbound Connection,TOR exit node detected
